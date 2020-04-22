@@ -12,7 +12,7 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.IdentityModel.Tokens.Saml" Version="5.6.0" />
-    <PackageReference Include="Sustainsys.Saml2" Version="2.3.0" />
+    <PackageReference Include="Sustainsys.Saml2" Version="2.7.0" />
     <PackageReference Include="Sustainsys.Saml2.AspNetCore2" Version="2.3.0" />
   </ItemGroup>
 
